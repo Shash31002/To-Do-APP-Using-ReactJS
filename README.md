@@ -24,3 +24,6 @@ The list of items is displayed using the map() function.
 Bootstrap Styling:
 Bootstrap classes are used to style the UI components (e.g., mb-3, mt-2, etc.).
 Overall, this code creates a basic TODO list application with React and Bootstrap. Users can add items, edit existing items, and delete items from the list.
+
+Importing React App modlues from create-React-App:
+Credits: https://github.com/facebook/create-react-app
